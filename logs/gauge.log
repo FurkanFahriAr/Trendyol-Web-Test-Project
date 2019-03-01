@@ -1,0 +1,710 @@
+01:03:41.843 Plugin java is already installed.
+01:03:41.845 Plugin html-report is already installed.
+01:03:43.649 Checking updates...
+01:03:52.314 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+01:03:52.315 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+01:03:52.349 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+01:03:52.349 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+01:03:52.350 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+01:03:52.350 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+01:03:56.606 Plugin [Html Report] with pid [3594] has exited
+01:03:56.812 Specifications:	1 executed	1 passed	0 failed	0 skipped
+01:03:56.813 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+01:03:56.813 
+Total time taken: 349ms
+10:38:05.371 Plugin html-report is already installed.
+10:38:05.372 Plugin java is already installed.
+10:38:07.878 Checking updates...
+10:38:15.517 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Login button on the HomePage" > 
+10:38:15.519 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Login button on the HomePage" parameterizedStepValue:"Click Login button on the HomePage" > > 
+10:38:15.532 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <Email> on the pop up menu" > 
+10:38:15.532 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} on the pop up menu" parameterizedStepValue:"Enter <Email> on the pop up menu" parameters:"Email" > > 
+10:38:15.534 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <Password> on the pop up menu" > 
+10:38:15.534 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} on the pop up menu" parameterizedStepValue:"Enter <Password> on the pop up menu" parameters:"Password" > > 
+10:38:15.534 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"User must have logged in to the website" > 
+10:38:15.534 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"User must have logged in to the website" parameterizedStepValue:"User must have logged in to the website" > > 
+10:38:19.697 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:11 Duplicate step implementation => 'Enter "furkanfahriar@outlook.com" on the pop up menu'
+10:38:19.697 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:12 Duplicate step implementation => 'Enter "Ar2507328" on the pop up menu'
+10:38:43.115 Plugin [Html Report] with pid [4817] has exited
+10:38:43.326 Specifications:	0 executed	0 passed	0 failed	1 skipped
+10:38:43.326 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+10:38:43.326 
+Total time taken: 23.302s
+10:43:05.665 Plugin java is already installed.
+10:43:05.667 Plugin html-report is already installed.
+10:43:07.433 Checking updates...
+10:43:54.848 Plugin java is already installed.
+10:43:54.850 Plugin html-report is already installed.
+10:43:56.643 Checking updates...
+10:44:18.897 Plugin java is already installed.
+10:44:18.897 Plugin html-report is already installed.
+10:44:21.016 Checking updates...
+10:44:30.128 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Login button on the HomePage" > 
+10:44:30.132 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Login button on the HomePage" parameterizedStepValue:"Click Login button on the HomePage" > > 
+10:44:30.148 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <Email> on the pop up menu" > 
+10:44:30.148 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} on the pop up menu" parameterizedStepValue:"Enter <Email> on the pop up menu" parameters:"Email" > > 
+10:44:30.151 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <Password> on the pop up menu" > 
+10:44:30.151 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} on the pop up menu" parameterizedStepValue:"Enter <Password> on the pop up menu" parameters:"Password" > > 
+10:44:30.152 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"User must have logged in to the website" > 
+10:44:30.152 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"User must have logged in to the website" parameterizedStepValue:"User must have logged in to the website" > > 
+10:44:36.583 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:10 Step implementation not found => 'Click Close button opened popup'
+10:44:36.583 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:12 Duplicate step implementation => 'Enter "furkanfahriar@outlook.com" on the pop up menu'
+10:44:36.584 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:13 Duplicate step implementation => 'Enter "Ar2507328" on the pop up menu'
+10:44:53.799 Plugin [Html Report] with pid [5021] has exited
+10:44:53.902 Specifications:	0 executed	0 passed	0 failed	1 skipped
+10:44:53.902 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+10:44:53.902 
+Total time taken: 17.099s
+10:46:11.954 Plugin java is already installed.
+10:46:11.962 Plugin html-report is already installed.
+10:46:14.384 Checking updates...
+10:46:25.486 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Close button opened popup" > 
+10:46:25.489 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Close button opened popup" parameterizedStepValue:"Click Close button opened popup" > > 
+10:46:25.588 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Login button on the HomePage" > 
+10:46:25.588 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Login button on the HomePage" parameterizedStepValue:"Click Login button on the HomePage" > > 
+10:46:25.589 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <Email> on the pop up menu" > 
+10:46:25.589 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} on the pop up menu" parameterizedStepValue:"Enter <Email> on the pop up menu" parameters:"Email" > > 
+10:46:25.590 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <Password> on the pop up menu" > 
+10:46:25.590 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} on the pop up menu" parameterizedStepValue:"Enter <Password> on the pop up menu" parameters:"Password" > > 
+10:46:25.591 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"User must have logged in to the website" > 
+10:46:25.591 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"User must have logged in to the website" parameterizedStepValue:"User must have logged in to the website" > > 
+10:46:30.877 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:12 Duplicate step implementation => 'Enter "furkanfahriar@outlook.com" on the pop up menu'
+10:46:30.877 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:13 Duplicate step implementation => 'Enter "Ar2507328" on the pop up menu'
+10:46:50.155 Plugin [Html Report] with pid [5055] has exited
+10:46:50.361 Specifications:	0 executed	0 passed	0 failed	1 skipped
+10:46:50.361 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+10:46:50.361 
+Total time taken: 19.156s
+10:49:02.891 Plugin java is already installed.
+10:49:02.892 Plugin html-report is already installed.
+10:49:02.898 [ParseError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:16 Scenario should have atleast one step => ''
+10:49:04.676 Checking updates...
+10:49:15.077 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+10:49:15.082 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+10:49:15.102 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+10:49:15.103 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+10:49:15.111 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER <EMAIL> ON THE POP UP MENU" > 
+10:49:15.113 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER {} ON THE POP UP MENU" parameterizedStepValue:"ENTER <EMAIL> ON THE POP UP MENU" parameters:"EMAIL" > > 
+10:49:15.124 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER <PASSWORD> ON THE POP UP MENU" > 
+10:49:15.125 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER {} ON THE POP UP MENU" parameterizedStepValue:"ENTER <PASSWORD> ON THE POP UP MENU" parameters:"PASSWORD" > > 
+10:49:15.126 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+10:49:15.127 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+10:49:20.797 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:12 Duplicate step implementation => 'ENTER "furkanfahriar@outlook.com" ON THE POP UP MENU'
+10:49:20.797 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:13 Duplicate step implementation => 'ENTER "Ar2507328" ON THE POP UP MENU'
+10:49:39.488 Plugin [Html Report] with pid [5139] has exited
+10:49:39.697 Specifications:	1 executed	0 passed	1 failed	0 skipped
+10:49:39.698 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+10:49:39.698 
+Total time taken: 18.584s
+10:49:57.445 Plugin java is already installed.
+10:49:57.446 Plugin html-report is already installed.
+10:50:07.546 Checking updates...
+10:50:09.419 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+10:50:09.421 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+10:50:09.468 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+10:50:09.468 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+10:50:09.468 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER <EMAIL> ON THE POP UP MENU" > 
+10:50:09.469 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER {} ON THE POP UP MENU" parameterizedStepValue:"ENTER <EMAIL> ON THE POP UP MENU" parameters:"EMAIL" > > 
+10:50:09.471 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER <PASSWORD> ON THE POP UP MENU" > 
+10:50:09.472 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER {} ON THE POP UP MENU" parameterizedStepValue:"ENTER <PASSWORD> ON THE POP UP MENU" parameters:"PASSWORD" > > 
+10:50:09.475 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+10:50:09.475 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+10:50:14.229 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:12 Duplicate step implementation => 'ENTER "furkanfahriar@outlook.com" ON THE POP UP MENU'
+10:50:14.230 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:13 Duplicate step implementation => 'ENTER "Ar2507328" ON THE POP UP MENU'
+10:50:29.605 Plugin [Html Report] with pid [5181] has exited
+10:50:29.813 Specifications:	0 executed	0 passed	0 failed	1 skipped
+10:50:29.813 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+10:50:29.813 
+Total time taken: 15.261s
+10:53:12.088 Plugin html-report is already installed.
+10:53:12.090 Plugin java is already installed.
+10:53:14.526 Checking updates...
+10:53:22.834 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+10:53:22.838 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+10:53:22.852 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+10:53:22.852 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+10:53:22.852 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER <Username> ON THE POP UP MENU" > 
+10:53:22.852 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER {} ON THE POP UP MENU" parameterizedStepValue:"ENTER <Username> ON THE POP UP MENU" parameters:"Username" > > 
+10:53:22.854 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER <Password> ON THE POP UP MENU" > 
+10:53:22.854 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER {} ON THE POP UP MENU" parameterizedStepValue:"ENTER <Password> ON THE POP UP MENU" parameters:"Password" > > 
+10:53:22.855 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+10:53:22.855 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+10:53:26.870 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:12 Duplicate step implementation => 'ENTER "furkanfahriar@outlook.com" ON THE POP UP MENU'
+10:53:26.870 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:13 Duplicate step implementation => 'ENTER "Ar2507328" ON THE POP UP MENU'
+10:53:41.671 Plugin [Html Report] with pid [5344] has exited
+10:53:41.882 Specifications:	0 executed	0 passed	0 failed	1 skipped
+10:53:41.883 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+10:53:41.883 
+Total time taken: 14.691s
+10:57:57.330 Plugin java is already installed.
+10:57:57.331 Plugin html-report is already installed.
+10:57:59.831 Checking updates...
+10:58:07.342 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+10:58:07.347 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+10:58:07.364 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+10:58:07.365 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+10:58:07.367 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER <Username> ON THE POP UP MENU" > 
+10:58:07.367 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER {} ON THE POP UP MENU" parameterizedStepValue:"ENTER <Username> ON THE POP UP MENU" parameters:"Username" > > 
+10:58:07.373 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER <Password> ON THE POP UP MENU" > 
+10:58:07.374 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER {} ON THE POP UP MENU" parameterizedStepValue:"ENTER <Password> ON THE POP UP MENU" parameters:"Password" > > 
+10:58:07.376 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+10:58:07.377 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+10:58:10.837 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:12 Duplicate step implementation => 'ENTER "furkanfahriar@outlook.com" ON THE POP UP MENU'
+10:58:10.837 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:13 Duplicate step implementation => 'ENTER "Ar2507328" ON THE POP UP MENU'
+10:58:26.340 Plugin [Html Report] with pid [5527] has exited
+10:58:26.849 Specifications:	0 executed	0 passed	0 failed	1 skipped
+10:58:26.849 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+10:58:26.849 
+Total time taken: 15.386s
+11:12:28.540 Plugin java is already installed.
+11:12:28.541 Plugin html-report is already installed.
+11:12:31.792 Checking updates...
+11:12:36.942 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+11:12:36.950 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+11:12:36.967 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+11:12:36.967 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+11:12:36.968 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER <Username> ON THE POP UP MENU" > 
+11:12:36.968 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER {} ON THE POP UP MENU" parameterizedStepValue:"ENTER <Username> ON THE POP UP MENU" parameters:"Username" > > 
+11:12:36.970 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER <Password> ON THE POP UP MENU" > 
+11:12:36.970 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER {} ON THE POP UP MENU" parameterizedStepValue:"ENTER <Password> ON THE POP UP MENU" parameters:"Password" > > 
+11:12:36.971 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+11:12:36.971 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+11:12:40.349 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:12 Duplicate step implementation => 'ENTER "furkanfahriar@outlook.com" ON THE POP UP MENU'
+11:12:40.349 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:13 Duplicate step implementation => 'ENTER "Ar2507328" ON THE POP UP MENU'
+11:12:55.699 Closing connection [127.0.0.1:49234] cause: read tcp 127.0.0.1:49231->127.0.0.1:49234: read: connection reset by peer
+11:12:55.766 Plugin [Html Report] with pid [445] has exited
+11:12:55.817 Closing connection [127.0.0.1:49227] cause: EOF
+11:12:55.868 Specifications:	0 executed	0 passed	0 failed	1 skipped
+11:12:55.868 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+11:12:55.869 
+Total time taken: 15.311s
+11:20:44.166 Plugin java is already installed.
+11:20:44.170 Plugin html-report is already installed.
+11:20:45.933 Checking updates...
+11:20:52.663 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+11:20:52.667 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+11:20:52.683 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+11:20:52.683 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+11:20:52.684 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER <Username> ON THE POP UP MENU" > 
+11:20:52.684 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER {} ON THE POP UP MENU" parameterizedStepValue:"ENTER <Username> ON THE POP UP MENU" parameters:"Username" > > 
+11:20:52.686 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER <Password> ON THE POP UP MENU" > 
+11:20:52.686 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER {} ON THE POP UP MENU" parameterizedStepValue:"ENTER <Password> ON THE POP UP MENU" parameters:"Password" > > 
+11:20:52.687 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+11:20:52.687 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+11:20:55.808 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:12 Duplicate step implementation => 'ENTER "furkanfahriar@outlook.com" ON THE POP UP MENU'
+11:20:55.808 [ValidationError] /Users/furkanfahriar/IdeaProjects/TrendyolWebTest/specs/LoginCases.spec:13 Duplicate step implementation => 'ENTER "Ar2507328" ON THE POP UP MENU'
+11:21:08.509 Plugin [Html Report] with pid [800] has exited
+11:21:08.611 Specifications:	0 executed	0 passed	0 failed	1 skipped
+11:21:08.611 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+11:21:08.611 
+Total time taken: 12.594s
+11:23:08.456 Plugin html-report is already installed.
+11:23:08.457 Plugin java is already installed.
+11:23:09.873 Checking updates...
+11:23:18.236 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+11:23:18.238 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+11:23:18.247 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+11:23:18.248 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+11:23:18.248 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP MENU" > 
+11:23:18.248 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP MENU" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP MENU" parameters:"Email" > > 
+11:23:18.250 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP MENU" > 
+11:23:18.251 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP MENU" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP MENU" parameters:"Password" > > 
+11:23:18.253 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+11:23:18.253 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+11:24:10.746 Plugin [Html Report] with pid [851] has exited
+11:24:11.250 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:24:11.250 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:24:11.250 
+Total time taken: 48.893s
+11:25:20.531 Plugin java is already installed.
+11:25:20.532 Plugin html-report is already installed.
+11:25:22.179 Checking updates...
+11:25:28.249 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+11:25:28.249 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+11:25:28.262 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+11:25:28.262 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+11:25:28.263 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP MENU" > 
+11:25:28.263 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP MENU" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP MENU" parameters:"Email" > > 
+11:25:28.264 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP MENU" > 
+11:25:28.264 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP MENU" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP MENU" parameters:"Password" > > 
+11:25:28.265 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+11:25:28.265 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+11:26:20.219 Plugin [Html Report] with pid [887] has exited
+11:26:20.625 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:26:20.626 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:26:20.626 
+Total time taken: 48.297s
+11:28:38.712 Plugin java is already installed.
+11:28:38.715 Plugin html-report is already installed.
+11:28:42.457 Checking updates...
+11:28:58.792 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+11:28:58.794 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+11:28:58.837 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+11:28:58.838 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+11:28:58.838 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP MENU" > 
+11:28:58.838 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP MENU" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP MENU" parameters:"Email" > > 
+11:28:58.840 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP MENU" > 
+11:28:58.840 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP MENU" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP MENU" parameters:"Password" > > 
+11:28:58.841 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+11:28:58.841 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+11:29:32.999 Plugin [Html Report] with pid [951] has exited
+11:29:33.301 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:29:33.301 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:29:33.301 
+Total time taken: 25.222s
+11:39:57.278 Plugin java is already installed.
+11:39:57.281 Plugin html-report is already installed.
+11:39:58.946 Checking updates...
+11:40:07.476 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+11:40:07.477 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+11:40:07.514 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+11:40:07.517 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+11:40:07.517 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+11:40:07.518 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+11:40:07.518 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+11:40:07.518 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+11:40:07.520 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+11:40:07.520 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+11:40:07.520 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+11:40:07.521 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+11:40:28.088 Plugin [Html Report] with pid [1028] has exited
+11:40:28.392 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:40:28.393 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:40:28.393 
+Total time taken: 17.257s
+11:42:41.979 Plugin java is already installed.
+11:42:41.980 Plugin html-report is already installed.
+11:42:48.302 Checking updates...
+11:42:50.871 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+11:42:50.874 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+11:42:50.892 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+11:42:50.892 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+11:42:50.893 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+11:42:50.893 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+11:42:50.893 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+11:42:50.893 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+11:42:50.895 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+11:42:50.895 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+11:42:50.896 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+11:42:50.896 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+11:43:14.240 Plugin [Html Report] with pid [1075] has exited
+11:43:14.647 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:43:14.648 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:43:14.648 
+Total time taken: 19.675s
+11:43:54.610 Plugin java is already installed.
+11:43:54.611 Plugin html-report is already installed.
+11:44:00.897 Checking updates...
+11:44:03.521 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+11:44:03.521 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+11:44:03.533 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+11:44:03.533 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+11:44:03.534 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+11:44:03.534 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+11:44:03.537 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+11:44:03.538 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+11:44:03.544 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+11:44:03.545 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+11:44:03.548 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+11:44:03.548 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+11:44:59.674 Plugin [Html Report] with pid [1118] has exited
+11:44:59.879 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:44:59.879 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:44:59.879 
+Total time taken: 52.198s
+11:48:01.130 Plugin java is already installed.
+11:48:01.132 Plugin html-report is already installed.
+11:48:02.967 Checking updates...
+11:48:09.608 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+11:48:09.626 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+11:48:09.636 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+11:48:09.636 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+11:48:09.637 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+11:48:09.637 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+11:48:09.637 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+11:48:09.637 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+11:48:09.639 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+11:48:09.639 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+11:48:09.639 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+11:48:09.639 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+11:48:33.248 Plugin [Html Report] with pid [1158] has exited
+11:48:33.660 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:48:33.660 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:48:33.660 
+Total time taken: 20.191s
+11:49:07.172 Plugin java is already installed.
+11:49:07.175 Plugin html-report is already installed.
+11:49:09.014 Checking updates...
+11:49:15.563 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+11:49:15.564 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+11:49:15.575 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+11:49:15.575 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+11:49:15.576 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+11:49:15.576 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+11:49:15.576 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+11:49:15.576 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+11:49:15.578 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+11:49:15.578 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+11:49:15.579 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+11:49:15.579 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+11:49:44.154 Plugin [Html Report] with pid [1207] has exited
+11:49:44.458 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:49:44.459 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:49:44.459 
+Total time taken: 25s
+11:49:58.931 Plugin java is already installed.
+11:49:58.932 Plugin html-report is already installed.
+11:50:08.015 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+11:50:08.015 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+11:50:08.043 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+11:50:08.043 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+11:50:08.044 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+11:50:08.044 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+11:50:08.044 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+11:50:08.045 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+11:50:08.046 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+11:50:08.046 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+11:50:08.047 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+11:50:08.047 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+11:50:11.421 Checking updates...
+11:50:35.050 Plugin [Html Report] with pid [1251] has exited
+11:50:35.151 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:50:35.151 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:50:35.151 
+Total time taken: 23.208s
+15:19:07.860 Plugin java is already installed.
+15:19:07.863 Plugin html-report is already installed.
+15:19:10.123 Checking updates...
+15:19:18.820 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER INVALID EMAIL IN THE FIELD <table>" > 
+15:19:18.822 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER INVALID EMAIL IN THE FIELD {}" parameterizedStepValue:"ENTER INVALID EMAIL IN THE FIELD <table>" parameters:"table" > > 
+15:19:18.844 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+15:19:18.844 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+15:19:18.844 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+15:19:18.845 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+15:19:18.845 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+15:19:18.845 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+15:19:18.846 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+15:19:18.847 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+15:19:18.849 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+15:19:18.849 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+15:19:18.850 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+15:19:18.850 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+15:19:18.850 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"VERIFY THAT <Error> ERROR" > 
+15:19:18.851 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"VERIFY THAT {} ERROR" parameterizedStepValue:"VERIFY THAT <Error> ERROR" parameters:"Error" > > 
+15:19:54.671 Plugin [Html Report] with pid [3320] has exited
+15:19:55.075 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:19:55.075 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:19:55.076 
+Total time taken: 31.385s
+15:24:16.452 Plugin java is already installed.
+15:24:16.453 Plugin html-report is already installed.
+15:24:22.850 Checking updates...
+15:24:26.324 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER INVALID EMAIL IN THE FIELD <Email>" > 
+15:24:26.326 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER INVALID EMAIL IN THE FIELD {}" parameterizedStepValue:"ENTER INVALID EMAIL IN THE FIELD <Email>" parameters:"Email" > > 
+15:24:26.340 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+15:24:26.340 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+15:24:26.341 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+15:24:26.341 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+15:24:26.341 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+15:24:26.341 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+15:24:26.342 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+15:24:26.342 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+15:24:26.342 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+15:24:26.343 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+15:24:26.343 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+15:24:26.343 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+15:24:26.344 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"VERIFY THAT <Error> ERROR" > 
+15:24:26.344 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"VERIFY THAT {} ERROR" parameterizedStepValue:"VERIFY THAT <Error> ERROR" parameters:"Error" > > 
+15:24:54.199 Plugin [Html Report] with pid [3426] has exited
+15:24:54.604 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:24:54.604 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:24:54.604 
+Total time taken: 23.827s
+16:09:02.591 Plugin java is already installed.
+16:09:02.595 Plugin html-report is already installed.
+16:09:05.435 Checking updates...
+16:09:12.652 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" > 
+16:09:12.654 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON {}" parameterizedStepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" parameters:"emailTable" > > 
+16:09:12.708 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+16:09:12.708 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+16:09:12.710 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+16:09:12.711 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+16:09:12.712 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+16:09:12.712 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+16:09:12.712 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+16:09:12.713 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+16:09:12.713 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+16:09:12.713 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+16:09:12.714 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+16:09:12.714 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+16:09:12.714 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"VERIFY THAT <Error> ERROR" > 
+16:09:12.715 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"VERIFY THAT {} ERROR" parameterizedStepValue:"VERIFY THAT <Error> ERROR" parameters:"Error" > > 
+16:09:51.106 Plugin [Html Report] with pid [4134] has exited
+16:09:51.515 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:09:51.516 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16:09:51.516 
+Total time taken: 32.084s
+16:11:35.275 Plugin java is already installed.
+16:11:35.277 Plugin html-report is already installed.
+16:11:41.865 Checking updates...
+16:11:45.362 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" > 
+16:11:45.363 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON {}" parameterizedStepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" parameters:"emailTable" > > 
+16:11:45.374 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+16:11:45.374 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+16:11:45.375 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+16:11:45.375 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+16:11:45.375 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+16:11:45.375 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+16:11:45.376 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+16:11:45.376 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+16:11:45.384 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+16:11:45.385 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+16:11:45.387 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+16:11:45.387 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+16:11:45.388 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"VERIFY THAT <Error> ERROR" > 
+16:11:45.388 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"VERIFY THAT {} ERROR" parameterizedStepValue:"VERIFY THAT <Error> ERROR" parameters:"Error" > > 
+16:12:57.194 Plugin [Html Report] with pid [4207] has exited
+16:12:57.500 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:12:57.500 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16:12:57.500 
+Total time taken: 1m4.472s
+16:21:06.291 Plugin java is already installed.
+16:21:06.293 Plugin html-report is already installed.
+16:21:10.817 Checking updates...
+16:21:16.718 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" > 
+16:21:16.738 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON {}" parameterizedStepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" parameters:"emailTable" > > 
+16:21:16.752 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+16:21:16.752 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+16:21:16.753 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+16:21:16.753 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+16:21:16.753 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+16:21:16.753 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+16:21:16.754 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+16:21:16.754 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+16:21:16.754 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+16:21:16.754 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+16:21:16.755 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+16:21:16.755 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+16:21:16.755 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"VERIFY THAT <Error> ERROR" > 
+16:21:16.756 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"VERIFY THAT {} ERROR" parameterizedStepValue:"VERIFY THAT <Error> ERROR" parameters:"Error" > > 
+16:22:01.826 Plugin [Html Report] with pid [4540] has exited
+16:22:02.437 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:22:02.437 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16:22:02.437 
+Total time taken: 40.592s
+17:09:31.351 Plugin java is already installed.
+17:09:31.352 Plugin html-report is already installed.
+17:09:38.634 Checking updates...
+17:09:47.031 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" > 
+17:09:47.033 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON {}" parameterizedStepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" parameters:"emailTable" > > 
+17:09:47.056 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+17:09:47.056 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+17:09:47.057 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+17:09:47.057 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+17:09:47.058 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+17:09:47.058 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+17:09:47.059 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+17:09:47.059 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+17:09:47.060 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+17:09:47.060 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+17:09:47.061 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+17:09:47.061 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+17:09:47.061 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"VERIFY THAT <Error> ERROR" > 
+17:09:47.061 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"VERIFY THAT {} ERROR" parameterizedStepValue:"VERIFY THAT <Error> ERROR" parameters:"Error" > > 
+17:10:20.292 Plugin [Html Report] with pid [5148] has exited
+17:10:20.801 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:10:20.801 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:10:20.802 
+Total time taken: 28.049s
+17:14:02.734 Plugin java is already installed.
+17:14:02.736 Plugin html-report is already installed.
+17:14:06.093 Checking updates...
+17:14:11.911 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" > 
+17:14:11.913 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON {}" parameterizedStepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" parameters:"emailTable" > > 
+17:14:11.940 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+17:14:11.941 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+17:14:11.941 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+17:14:11.941 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+17:14:11.942 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+17:14:11.942 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+17:14:11.942 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+17:14:11.942 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+17:14:11.943 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+17:14:11.943 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+17:14:11.944 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+17:14:11.944 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+17:14:11.944 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"VERIFY THAT <Error> ERROR" > 
+17:14:11.944 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"VERIFY THAT {} ERROR" parameterizedStepValue:"VERIFY THAT <Error> ERROR" parameters:"Error" > > 
+17:15:17.874 Plugin [Html Report] with pid [5238] has exited
+17:15:18.078 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:15:18.079 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:15:18.079 
+Total time taken: 1m2.639s
+20:52:29.669 Plugin html-report is already installed.
+20:52:29.671 Plugin java is already installed.
+20:52:31.537 Checking updates...
+20:52:39.526 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" > 
+20:52:39.534 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON {}" parameterizedStepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" parameters:"emailTable" > > 
+20:52:39.550 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+20:52:39.551 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+20:52:39.551 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+20:52:39.551 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+20:52:39.552 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+20:52:39.552 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+20:52:39.555 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+20:52:39.557 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+20:52:39.558 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+20:52:39.558 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+20:52:39.559 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+20:52:39.559 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+20:52:39.559 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"VERIFY THAT <Error> ERROR" > 
+20:52:39.559 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"VERIFY THAT {} ERROR" parameterizedStepValue:"VERIFY THAT <Error> ERROR" parameters:"Error" > > 
+20:53:44.102 Plugin [Html Report] with pid [656] has exited
+20:53:44.609 Specifications:	1 executed	0 passed	1 failed	0 skipped
+20:53:44.609 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+20:53:44.609 
+Total time taken: 1m0.887s
+20:59:42.235 Plugin java is already installed.
+20:59:42.237 Plugin html-report is already installed.
+20:59:43.964 Checking updates...
+20:59:52.058 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" > 
+20:59:52.066 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON {}" parameterizedStepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" parameters:"emailTable" > > 
+20:59:52.080 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+20:59:52.081 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+20:59:52.082 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+20:59:52.082 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+20:59:52.085 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+20:59:52.085 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+20:59:52.086 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+20:59:52.086 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+20:59:52.087 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+20:59:52.087 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+20:59:52.089 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+20:59:52.089 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+20:59:52.090 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"VERIFY THAT <Error> ERROR" > 
+20:59:52.090 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"VERIFY THAT {} ERROR" parameterizedStepValue:"VERIFY THAT <Error> ERROR" parameters:"Error" > > 
+21:01:35.948 Plugin [Html Report] with pid [1008] has exited
+21:01:36.452 Specifications:	1 executed	0 passed	1 failed	0 skipped
+21:01:36.452 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+21:01:36.452 
+Total time taken: 1m40.279s
+21:08:06.627 Plugin java is already installed.
+21:08:06.628 Plugin html-report is already installed.
+21:08:13.003 Checking updates...
+21:08:22.099 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" > 
+21:08:22.105 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON {}" parameterizedStepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" parameters:"emailTable" > > 
+21:08:22.245 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+21:08:22.246 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+21:08:22.246 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+21:08:22.246 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+21:08:22.262 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+21:08:22.262 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+21:08:22.263 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+21:08:22.264 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+21:08:22.265 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+21:08:22.266 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+21:08:22.266 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+21:08:22.266 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+21:08:22.267 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"VERIFY THAT <Error> ERROR" > 
+21:08:22.270 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"VERIFY THAT {} ERROR" parameterizedStepValue:"VERIFY THAT <Error> ERROR" parameters:"Error" > > 
+21:08:47.959 Plugin [Html Report] with pid [1132] has exited
+21:08:48.471 Specifications:	1 executed	0 passed	1 failed	0 skipped
+21:08:48.471 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+21:08:48.472 
+Total time taken: 19.248s
+21:09:09.458 Plugin java is already installed.
+21:09:09.459 Plugin html-report is already installed.
+21:09:11.261 Checking updates...
+21:09:17.386 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" > 
+21:09:17.386 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON {}" parameterizedStepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" parameters:"emailTable" > > 
+21:09:17.399 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+21:09:17.399 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+21:09:17.399 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+21:09:17.400 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+21:09:17.400 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+21:09:17.400 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+21:09:17.401 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+21:09:17.401 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+21:09:17.402 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+21:09:17.402 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+21:09:17.403 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+21:09:17.403 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+21:09:17.403 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"VERIFY THAT <Error> ERROR" > 
+21:09:17.409 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"VERIFY THAT {} ERROR" parameterizedStepValue:"VERIFY THAT <Error> ERROR" parameters:"Error" > > 
+21:11:01.564 Plugin [Html Report] with pid [1183] has exited
+21:11:02.080 Specifications:	1 executed	0 passed	1 failed	0 skipped
+21:11:02.080 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+21:11:02.080 
+Total time taken: 1m40.89s
+21:17:05.858 Plugin java is already installed.
+21:17:05.859 Plugin html-report is already installed.
+21:17:07.718 Checking updates...
+21:17:14.837 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" > 
+21:17:14.839 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON {}" parameterizedStepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" parameters:"emailTable" > > 
+21:17:14.851 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+21:17:14.852 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+21:17:14.853 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+21:17:14.853 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+21:17:14.854 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+21:17:14.854 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+21:17:14.855 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+21:17:14.855 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+21:17:14.855 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+21:17:14.855 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+21:17:14.856 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+21:17:14.856 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+21:17:14.856 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"VERIFY THAT <Error> ERROR" > 
+21:17:14.856 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"VERIFY THAT {} ERROR" parameterizedStepValue:"VERIFY THAT <Error> ERROR" parameters:"Error" > > 
+21:18:12.046 Plugin [Html Report] with pid [1355] has exited
+21:18:12.247 Specifications:	1 executed	0 passed	1 failed	0 skipped
+21:18:12.247 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+21:18:12.247 
+Total time taken: 53.729s
+21:18:29.748 Plugin java is already installed.
+21:18:29.749 Plugin html-report is already installed.
+21:18:36.091 Checking updates...
+21:18:38.468 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" > 
+21:18:38.469 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON {}" parameterizedStepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" parameters:"emailTable" > > 
+21:18:38.483 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+21:18:38.483 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+21:18:38.485 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+21:18:38.486 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+21:18:38.488 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+21:18:38.489 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+21:18:38.492 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+21:18:38.493 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+21:18:38.495 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+21:18:38.495 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+21:18:38.497 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+21:18:38.497 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+21:18:38.497 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"VERIFY THAT <Error> ERROR" > 
+21:18:38.497 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"VERIFY THAT {} ERROR" parameterizedStepValue:"VERIFY THAT <Error> ERROR" parameters:"Error" > > 
+21:20:23.601 Plugin [Html Report] with pid [1413] has exited
+21:20:24.111 Specifications:	1 executed	0 passed	1 failed	0 skipped
+21:20:24.111 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+21:20:24.111 
+Total time taken: 1m41.588s
+21:24:13.143 Plugin java is already installed.
+21:24:13.148 Plugin html-report is already installed.
+21:24:15.051 Checking updates...
+21:24:22.608 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" > 
+21:24:22.611 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON {}" parameterizedStepValue:"ENTER INVALID EMAILS IN THE FIELD AND CLICK LOGIN BUTTON <emailTable>" parameters:"emailTable" > > 
+21:24:22.646 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK CLOSE BUTTON OPENED POPUP" > 
+21:24:22.646 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK CLOSE BUTTON OPENED POPUP" parameterizedStepValue:"CLICK CLOSE BUTTON OPENED POPUP" > > 
+21:24:22.646 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > 
+21:24:22.646 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE HOMEPAGE" > > 
+21:24:22.647 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > 
+21:24:22.647 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" parameterizedStepValue:"CLICK LOGIN BUTTON ON THE POP UP PAGE" > > 
+21:24:22.647 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" > 
+21:24:22.647 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER EMAIL FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER EMAIL FIELD <Email> ON THE POP UP PAGE" parameters:"Email" > > 
+21:24:22.648 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" > 
+21:24:22.648 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ENTER PASSWORD FIELD {} ON THE POP UP PAGE" parameterizedStepValue:"ENTER PASSWORD FIELD <Password> ON THE POP UP PAGE" parameters:"Password" > > 
+21:24:22.649 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > 
+21:24:22.649 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" parameterizedStepValue:"USER MUST HAVE LOGGED IN TO THE WEBSITE" > > 
+21:24:22.650 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"VERIFY THAT <Error> ERROR" > 
+21:24:22.650 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"VERIFY THAT {} ERROR" parameterizedStepValue:"VERIFY THAT <Error> ERROR" parameters:"Error" > > 
+21:26:09.047 Plugin [Html Report] with pid [1546] has exited
+21:26:09.554 Specifications:	1 executed	0 passed	1 failed	0 skipped
+21:26:09.554 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+21:26:09.555 
+Total time taken: 1m42.897s
